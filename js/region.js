@@ -48,15 +48,16 @@ $(document).on('changeRegion', function(event, region) {
 })
 
 $(document).on("ready", function() {
-  changeRegion("EU"); // Default to EU
+  //changeRegion("EU"); // Default to EU
+  changeRegion("US");
 })
 
 function geocallback(data) {
   country_code = data.country_code;
   // US and CA will get the US localised version
-  if (country_code == "US" || country_code == "CA") {
+  /*if (country_code == "US" || country_code == "CA") {
     changeRegion("US");
-  }
+  }*/
 }
 
 // IP in the us for testing:
