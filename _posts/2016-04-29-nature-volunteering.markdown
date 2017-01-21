@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Team building, improving public spaces & helping our friends with disabilities"
-descriptiion: It feels so good to be out in nature and help create healthy and beautiful ecosystems!
+descriptiion: To live healthy we need to take care of our natural environment. This blog post talks about composting and our volunteering in nature.
 date: "2016-04-27 22:10:27 +0100"
 cover: "/images/blog/nature-volunteering.jpg"
 thumbnail: "/images/blog/nature-volunteering.jpg"
