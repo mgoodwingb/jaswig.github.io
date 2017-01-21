@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Act like a child when it comes to collaboration"
-desciption: What we learned from a day of volunteering with some kids from a Freinet school.
+desciption: A healthy society means living together in harmony. This blog post talks about respect and acceptance and finding happiness.
 date: "2016-04-25 22:10:27 +0100"
 cover: "/images/blog/globo-trein.jpg"
 thumbnail: "/images/blog/globo-trein.jpg"
