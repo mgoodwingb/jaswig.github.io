@@ -270,14 +270,69 @@ body {
   display: none;
 }
 
-/* custom text size for mobile  */
+/* custom css - hocnv  */
 
-.iframe_video {
-  margin-top: 300px;
+.hero .headline {
+  margin-top: 9vw;
 }
+
+.padding_bottom_img {
+  margin-bottom: 40px;
+}
+.varier {
+  min-height: 245px!important;
+}
+.fix_height {
+  min-height: 82px!important;
+}
+
+.desktop h4 {
+  color: white;
+  margin-top: 35px;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.desktop .email_coupon {
+  background-color: #F68F1F;
+  width: 349px;
+  margin: 0 auto;
+}
+
+.desktop .txtemail {
+  border: none;
+  height: 36px;
+  width: 265px;
+  padding-left: 5px;
+  font-size: small;
+  -webkit-appearance:none;
+  border-radius: 0;
+}
+
+.desktop .sign_up {
+  background-color: #F68F1F;
+  border: none;
+  color: white;
+  height: 36px;
+  width: 80px;
+  cursor: pointer;
+  -webkit-appearance:none;
+  border-radius: 0;
+}
+
+/* custom text size for mobile  */
 @media (max-width: 1024px) {
-  .iframe_video {
-    margin-top: 0;
+  .hero .headline {
+    margin-top: 0vw!important;
+  }
+  .desktop .sign_up {
+    width:79px!important;
+    height: 36px!important;
+  }
+  .desktop .email_coupon {
+    width: 348px!important;
   }
 }
 
@@ -295,17 +350,17 @@ body {
   .order-card-text {
     padding: 10px!important;
   }
-}
+  .desktop h4 {
+    font-size: 16px!important;
+  }
 
-/* custom css - hocnv  */
-.padding_bottom_img {
-  margin-bottom: 40px;
-}
-.varier {
-  min-height: 245px!important;
-}
-.fix_height {
-  min-height: 82px!important;
+  .desktop .txtemail {
+    height: 32px;
+  }
+
+  .desktop .sign_up {
+    height: 32px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -314,8 +369,61 @@ body {
   }
 }
 
+@media (max-width: 767px) {
+  .desktop {
+    display: none;
+  }
+
+  .mobile p {
+    color: #978B7D;
+    margin-top: 20px;
+    font-size: 14px;
+    font-family: Roboto;
+  }
+
+  .mobile .email_coupon {
+    background-color: white;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .mobile .txtemail {
+    border: 1px rgba(151, 139, 125, 0.37) solid ;
+    height: 33.5px;
+    width: 200px;
+    padding-left: 5px;
+    font-size: small;
+    border-right: none;
+    -webkit-appearance:none;
+    border-radius: 0;
+    padding-bottom: 0;
+  }
+
+  .mobile .sign_up {
+    background-color: #F68F1F;
+    border: none;
+    color: white;
+    height: 34px;
+    width: 80px;
+    cursor: pointer;
+    margin-left: -4px;
+    -webkit-appearance:none;
+    border-radius: 0;
+  }
+}
+
 @media (max-width: 320px) {
   .varier {
     min-height: 150px!important;
+  }
+  .mobile p {
+    font-size: 13px;
+  }
+  .mobile .txtemail {
+    width: 170px;
+  }
+  .mobile .sign_up {
+    width: 69px;
   }
 }
