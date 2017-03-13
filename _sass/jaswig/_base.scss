@@ -322,6 +322,19 @@ body {
   border-radius: 0;
 }
 
+.address {
+  color: #F68F1F!important;
+}
+
+.line2 {
+  margin-top: 0!important;
+  margin-left: 35px;
+}
+
+.fix-show-desktop {
+  margin-left: 25%;
+}
+
 /* custom text size for mobile  */
 @media (max-width: 1024px) {
   .hero .headline {
@@ -366,6 +379,10 @@ body {
 @media (max-width: 991px) {
   .varier {
     min-height: 110px!important;
+  }
+
+  .fix-show-desktop {
+    margin-left: 0;
   }
 }
 
