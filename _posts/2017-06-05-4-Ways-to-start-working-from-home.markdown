@@ -73,4 +73,3 @@ Here are 2 more links that might be helpful:
 •	[Forbes list of remote work companies](https://www.forbes.com/sites/laurashin/2016/01/27/work-from-home-in-2016-the-top-100-companies-for-remote-jobs/#217d3e2b2741)
 
 
-Need a home office desk? Jaswig offers [the only wooden adjustable height desk](https://store.jaswig.com/products/standup-nomad?variant=18203972612) on the market. Please check it out.
