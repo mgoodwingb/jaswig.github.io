@@ -15,15 +15,13 @@ shareTaglineAction: "More info"
 shareTaglineUrl: "http://www.jaswig.com"
 ---
 
-### 4 ways to start working from home
-
 Working remote is becoming mainstream. Forbes explained [the benefits of working from home](https://www.forbes.com/sites/kevinkruse/2012/12/18/benefits-working-from-home/#425ebf131d4c) and aspiring pictures of beautiful nature-centered offices are popping up everywhere.
 Being working nomads ourselves, we can only encourage you to take the leap.
 <!--more-->
 
 **Here are 4 ways on how to start working from home today.**
 
-![Working from home](/jaswig/jaswig.github.io/blob/master/images/blog/Working-from-home.jpg)
+![Working-from-home](/images/blog/Working-from-home.jpg)
 
 ### 1. Ask your current employer if you can work remotely.
 You’ll never know what's possible if you don’t ask. Suggest starting with 1 day per week and mention that you can easily go back to normal if it doesn't work out. Your boss will be more inclined to allow working from home if it doesn't sound permanent.
