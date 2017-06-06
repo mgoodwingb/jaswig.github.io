@@ -65,11 +65,11 @@ Once you decide to create an online store you need to think about stock levels, 
 Even though it's just one of many great platforms that helps you create and manage an online store. We highly recommend it.
 If you need help with starting and running your online store [the eCommerceFuel Podcast](https://itunes.apple.com/ca/podcast/ecommercefuel-build-launch/id679570743?mt=2) is a good guide through the steps.
 
-That's it for now, please feel free to [reach out](http://www.jaswig.com/contact/) if you want more information.
 
 Here are 2 more links that might be helpful:
 
 •	[A list of co-working spaces](https://coworkingmap.org)
+
 •	[Forbes list of remote work companies](https://www.forbes.com/sites/laurashin/2016/01/27/work-from-home-in-2016-the-top-100-companies-for-remote-jobs/#217d3e2b2741)
 
 
