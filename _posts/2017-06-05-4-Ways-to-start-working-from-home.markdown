@@ -45,7 +45,7 @@ They checked over 40,000 companies and lists all their ‘working from home job 
 Alternatively, there are many options out there, just pick and choose: [Working Nomads](https://www.workingnomads.co/jobs), [The Remote Working Company](http://www.remoteworking.co/), [Remote OK](https://remoteok.io/), [DigitalNomad JobFinder](http://digitalnomad-jobfinder.com/), [We Work Remotely](https://weworkremotely.com/), and [RemoteBase](https://remotebase.io/).
 
 
-[Here](https://www.youtube.com/watch?v=KDgckuEAqLQ) is a youtube video on how to stay organized while working from home.
+<iframe width="560" height="420" src="http://www.youtube.com/embed/KDgckuEAqLQ?color=white&theme=light"></iframe>
 
 
 ### 3. Become a freelancer
