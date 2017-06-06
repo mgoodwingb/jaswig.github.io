@@ -28,11 +28,12 @@ Working remote is becoming mainstream. Forbes explained [the benefits of working
 You’ll never know if you don’t ask. Suggest starting with 1 day per week and mention that you can easily go back to normal if it doesn't work out. Your boss will be more inclined to allow working from home if it doesn't sound permanent.
 Many employers know the benefits of working from home bur if your boss needs some convincing, be sure to mention the benefits of the Forbes article I linked earlier. Make them understand that hours spend don't directly relate to the qualitative of work.
 Ask if you may proof working at home will deliver better quality work.
+
 **TIP:** Tim Ferris, author of “The 4-Hour Workweek” and “Tools of Titans”, tested many different productivity tools. We love: [The email game](http://www.emailga.me/) , [Jumpcut](http://jumpcut.sourceforge.net/) and the [Pomodoro Technique](http://e.ggtimer.com/). 
 
 
-Looking for a beautiful and healthy home office setup? 
-Check out [this](https://store.jaswig.com/products/standup-nomad?variant=18203972612) Scandinavian adjustable height desk.
+Need a healthy home office setup? 
+Check out [Jaswig](https://store.jaswig.com/products/standup-nomad?variant=18203972612) adjustable height desk.
 
 ![Healthy home office](/images/blog/Healthy%20Home%20Office.jpg)
 
@@ -52,6 +53,10 @@ The success of websites like [upwork.com](https://www.upwork.com/), [freelancer.
 No boudt you have a talent that someone is willing to pay for. Very popular work on these website is translating, content writing, photoshop, social media management and online marketing.
 You might get some really cool projects in Paris or Cape Town. We have to warn you though that competition on these websites is quite high. As freelancers work from anywhere in the world, hourly rates vary greatly. 
 The best approach to building credibility is to take many tests that proof your value and start at a low rate for a few months to build up reviews. We do see that once you have a happy customer, they tend to come back with similar projects.
+
+
+![Scandinavian home office](/images/blog/Scandinavian%20home%20office.jpeg)
+
 
 ### 4. Start your own online store
 In theory for many this seems the most appealing option. There are numerous examples out there of a stay at home mom starting a small online store selling the things she makes as a hobby and eventually blowing her revenue through the roof. 
