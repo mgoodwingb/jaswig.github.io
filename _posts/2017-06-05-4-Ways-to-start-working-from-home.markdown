@@ -23,7 +23,7 @@ Being working nomads ourselves, we can only encourage you to take the leap.
 
 **Here are 4 ways on how to start working from home today.**
 
-![beautiful home office](images/blog/Working-from-home.jpg){:.medium}
+![beautiful home office](/jaswig/jaswig.github.io/blob/master/images/blog/Working-from-home.jpg){:.medium}
 
 ### 1. Ask your current employer if you can work remotely.
 You’ll never know what's possible if you don’t ask. Suggest starting with 1 day per week and mention that you can easily go back to normal if it doesn't work out. Your boss will be more inclined to allow working from home if it doesn't sound permanent.
