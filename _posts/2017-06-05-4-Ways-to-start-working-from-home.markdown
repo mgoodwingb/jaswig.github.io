@@ -18,7 +18,7 @@ shareTaglineUrl: "http://www.jaswig.com"
 
 Working remote is becoming mainstream. Forbes explained [the benefits of working from home](https://www.forbes.com/sites/kevinkruse/2012/12/18/benefits-working-from-home/#425ebf131d4c) and aspiring pictures of beautiful nature-centered offices are popping up everywhere. <!--more--> Being working nomads ourselves, we can only encourage you to take the leap.
 
-###Here are 4 ways on how to start working from home today.
+### Here are 4 ways on how to start working from home today.
 
 
 ![Working-from-home](/images/blog/Working-from-home.jpg)
