@@ -257,14 +257,13 @@ body {
 
 /* Background image */
 .background {
-  height: 57vw;
-  background-image: url('/images/jaswig-standing-desk.jpg');
+  height: 50vw;
+  background-image: url('/images/Hadissaspace.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: top;
   background-color: #ccc;
 }
-
 /* Hide modal when Vue isn't loaded yet */
 [v-cloak] {
   display: none;
@@ -358,7 +357,7 @@ body {
 /* custom text size for mobile  */
 @media (max-width: 1024px) {
   .hero .headline {
-    margin-top: 0vw!important;
+    margin-top: 5vw!important;
   }
   .desktop .sign_up {
     width:79px!important;
@@ -447,6 +446,9 @@ body {
     margin-left: -4px;
     -webkit-appearance:none;
     border-radius: 0;
+  }
+  .hero .play {
+    margin-top:15vw!important;
   }
 }
 
