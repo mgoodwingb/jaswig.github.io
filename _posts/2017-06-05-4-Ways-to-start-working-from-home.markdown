@@ -2,7 +2,7 @@
 layout: post
 title: "4 Ways to start working from home."
 description: 
-date: "2016-06-25 20:10:27 +0100"
+date: "2017-05-25 20:10:27 +0100"
 cover: "/images/blog/Home%20office.jpg"
 thumbnail: "/images/blog/Working-from-home.jpg"
 categories: blog
