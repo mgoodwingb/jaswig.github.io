@@ -142,10 +142,11 @@ header input[type=checkbox]{
 
 a.header-card.fully {
   text-transform: none;
-  font-size: 15px!important;
-  border: 2px solid;
+  font-size: 13px!important;
+  border: 1px solid;
   border-radius: 7px;
   padding: 8px 11px;
+  font-family: "Brandon Grotesque";
 }
 
 @media (min-width: $screen-md-min) {
