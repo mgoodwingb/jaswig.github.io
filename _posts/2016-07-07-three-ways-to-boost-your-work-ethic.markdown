@@ -17,7 +17,7 @@ shareTaglineUrl: "http://www.jaswig.com"
 
 ### Tips for work ethic improvement
 
-A big portion of our lives is devoted to work. And work is done in offices. But what is the defenition of "an office" in a time where people are craving for flexibility, health and happiness. 
+A big portion of our lives is devoted to work. And work is done in offices. But what is the defenition of "an office" in a time where we crave flexibility and happiness. 
 <!--more-->
 
 ![Happy Office](/images/blog/Happy Office 1.jpg){:.medium}
